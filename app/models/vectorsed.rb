@@ -1,0 +1,2 @@
+class Vectorsed < ApplicationRecord
+end
